@@ -4,7 +4,7 @@
 
 Built with Power BI Desktop, Power Query, and DAX.
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](/image/dashboard.png.png)
 
 ## Highlights
 - **Data model:** purchases table linked to a products table (many-to-one on Product ID)

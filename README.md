@@ -20,7 +20,7 @@ Built with Power BI Desktop, Power Query, and DAX.
 - Revenue is evenly balanced across branches, channels, and payment methods (none above 37%).
 
 ## Dataset
-Training dataset provided by the instructor of a data analysis training program, shared with permission. Pricing follows the logic defined in the exercise: Selling Price = Cost/Unit + (Cost/Unit × (1 + markup)). Amounts are in currency units. The original file is in the `data` folder.
+Training dataset provided by the instructor of a data analysis training program, shared with permission. Amounts are in currency units. The original file is in the `data` folder.
 
 ## How to Use
 1. Download [store-performance-dashboard.pbix](store-performance-dashboard.pbix) and open it in Power BI Desktop (Windows).

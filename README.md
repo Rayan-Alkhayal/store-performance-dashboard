@@ -23,5 +23,5 @@ Built with Power BI Desktop, Power Query, and DAX.
 Training dataset provided by the instructor of a data analysis training program, shared with permission. Amounts are in currency units. The original file is in the `data` folder.
 
 ## How to Use
-1. Download [store-performance-dashboard.pbix](Store Performance Dashboard.pbix) and open it in Power BI Desktop (Windows).
+1. Download [Store Performance Dashboard.pbix](Store Performance Dashboard.pbix) and open it in Power BI Desktop (Windows).
 2. Use the branch slicer and the two field-parameter slicers to explore the data.
